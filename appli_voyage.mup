@@ -1,0 +1,504 @@
+{
+  "title": "Projet 1",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Avant",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Fiches pratiques",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "iD pays / climat / culture",
+              "id": 8
+            },
+            "2": {
+              "title": "climat de confiance (sécurité)",
+              "id": 10
+            },
+            "3": {
+              "title": "PVT, sabatique, ...",
+              "id": 29,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "4": {
+              "title": "Le budget",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "5": {
+              "title": "Les bagages",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "La boutique (affiliation)",
+                  "id": 82
+                }
+              }
+            },
+            "6": {
+              "title": "Transport",
+              "id": 45,
+              "ideas": {
+                "1": {
+                  "title": "pied",
+                  "id": 47
+                },
+                "2": {
+                  "title": "velo",
+                  "id": 48
+                },
+                "3": {
+                  "title": "moto/voiture/camion",
+                  "id": 49
+                },
+                "4": {
+                  "title": "bus",
+                  "id": 50
+                },
+                "5": {
+                  "title": "train",
+                  "id": 51
+                },
+                "6": {
+                  "title": "stop",
+                  "id": 52
+                },
+                "7": {
+                  "title": "bateau",
+                  "id": 53
+                },
+                "8": {
+                  "title": "avion",
+                  "id": 54,
+                  "ideas": {
+                    "1": {
+                      "title": "types forfaits vs one shot",
+                      "id": 69
+                    }
+                  }
+                }
+              }
+            },
+            "7": {
+              "title": "Où dormir (à l'arrache)",
+              "id": 56
+            },
+            "5.5": {
+              "title": "la santé",
+              "id": 65
+            }
+          }
+        },
+        "2": {
+          "title": "Phase 2 : Mes préférences / Tracé du trajets",
+          "id": 58,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<a href=\"http://www.ontheroad-again.com/fr/destinations\">http://www.ontheroad-again.com/fr/destinations</a><div><a href=\"http://www.ontheroad-again.com/images/stories/2014-asia/preparation/trajet-web.jpg\">http://www.ontheroad-again.com/images/stories/2014-asia/preparation/trajet-web.jpg</a><br></div>"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Phase 1 : Faire le Tri",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "QCM",
+              "id": 32,
+              "ideas": {
+                "1": {
+                  "title": "âge",
+                  "id": 33
+                },
+                "2": {
+                  "title": "sexe",
+                  "id": 34
+                },
+                "3": {
+                  "title": "budget (double curseur min max)",
+                  "id": 35
+                },
+                "4": {
+                  "title": "continent/pays (préférences, élimination?)",
+                  "id": 36
+                },
+                "5": {
+                  "title": "Les transports/ choix voyage selon moyens loco",
+                  "id": 31,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "seul ou à plusieurs",
+                  "id": 59,
+                  "ideas": {}
+                },
+                "7": {
+                  "title": "durée (double curseur min max)",
+                  "id": 70
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Phase 3 : le financement et la comm",
+          "id": 60,
+          "ideas": {
+            "1": {
+              "title": "Communication",
+              "id": 27,
+              "ideas": {
+                "3": {
+                  "title": "Pitch video",
+                  "id": 39,
+                  "attr": {
+                    "attachment": {
+                      "contentType": "text/html",
+                      "content": "<a href=\"www.pitchy.fr\">www.pitchy.fr</a>"
+                    },
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "Dossier sponsor",
+                  "id": 28
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "C2B Missions Mise en relation",
+              "id": 75,
+              "ideas": {
+                "1": {
+                  "title": "Magazines",
+                  "id": 79
+                },
+                "2": {
+                  "title": "Sté",
+                  "id": 80
+                },
+                "3": {
+                  "title": "Orga Humanitaire",
+                  "id": 81
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "les sponsors : envoyez votre dossier",
+              "id": 77
+            },
+            "4": {
+              "title": "bourse (concours) du Projet 1",
+              "id": 78
+            }
+          }
+        },
+        "5": {
+          "title": "Phase 4 : L'administratif",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "visas",
+              "id": 62
+            },
+            "2": {
+              "title": "santé (vaccins)",
+              "id": 63
+            },
+            "3": {
+              "title": "prévenir les organismes & suivi courrier",
+              "id": 66
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#008000"
+        },
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<a href=\"http://www.voyageautourdumonde.fr/preparatifs-tour-du-monde#.UogZOWRYRZt\">http://www.voyageautourdumonde.fr/preparatifs-tour-du-monde#.UogZOWRYRZt</a>"
+        }
+      }
+    },
+    "2": {
+      "title": "Quizz devises, capitales",
+      "id": 97
+    },
+    "-1": {
+      "title": "Pendant",
+      "id": 3,
+      "ideas": {
+        "3": {
+          "title": "Communauté WTF - need help",
+          "id": 18,
+          "ideas": {
+            "3": {
+              "title": "needs",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "hosting",
+                  "id": 20,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "guide",
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "help/aid/assistance",
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {}
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "4": {
+          "title": "Divertissement/Culture",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "Playlist (soundcloud/Deezer, ...)",
+              "id": 43
+            },
+            "2": {
+              "title": "Booklist",
+              "id": 44
+            }
+          }
+        },
+        "5": {
+          "title": "Hébergement",
+          "id": 86,
+          "ideas": {
+            "1": {
+              "title": "Gestion documentaire",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "Medias",
+                  "id": 15,
+                  "ideas": {
+                    "1": {
+                      "title": "Classer",
+                      "id": 71
+                    },
+                    "2": {
+                      "title": "Retoucher",
+                      "id": 72
+                    },
+                    "4": {
+                      "title": "Blog/site",
+                      "id": 11,
+                      "attr": {
+                        "style": {
+                          "background": "#E0E0E0"
+                        }
+                      },
+                      "ideas": {
+                        "1": {
+                          "title": "Partager",
+                          "id": 73,
+                          "ideas": {
+                            "1": {
+                              "title": "Time line Photocloud",
+                              "id": 74,
+                              "ideas": {
+                                "1": {
+                                  "title": "Drag Drog",
+                                  "id": 88,
+                                  "attr": {
+                                    "attachment": {
+                                      "contentType": "text/html",
+                                      "content": "<a href=\"http://www.squarespace.com/\">http://www.squarespace.com/</a>"
+                                    },
+                                    "style": {
+                                      "background": "#E0E0E0"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "2": {
+                              "title": "Impression envoi de photo",
+                              "id": 91
+                            }
+                          },
+                          "attr": {
+                            "style": {
+                              "background": "#E0E0E0"
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Template prêt à l'emploi",
+                          "id": 90
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Administratif",
+                  "id": 17
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Services",
+          "id": 92,
+          "ideas": {
+            "1": {
+              "title": "Convertisseurs",
+              "id": 93
+            },
+            "2": {
+              "title": "Indicatifs téléphoniques",
+              "id": 94
+            },
+            "3": {
+              "title": "Fuseaux horaires",
+              "id": 95
+            },
+            "4": {
+              "title": "Assurances voyages",
+              "id": 96
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#3366ff"
+        }
+      }
+    },
+    "-11": {
+      "title": "Après",
+      "id": 4,
+      "attr": {
+        "style": {
+          "background": "#ff9900"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#800000"
+    },
+    "attachment": {
+      "contentType": "text/html",
+      "content": "<div><a href=\"http://www.travellerspoint.com/\" target=\"_blank\">http://www.travellerspoint.com/</a><br></div><div><br></div><div><a href=\"http://www.ontheroad-again.com/fr/\" style=\"color: rgb(0, 85, 128); text-decoration: underline; outline: 0px;\" target=\"_blank\">http://www.ontheroad-again.com/fr/</a><br></div><div><br></div><div><a href=\"https://voyageforum.com\" target=\"_blank\">https://voyageforum.com</a><br></div><a href=\"https://voyageforum.com\" target=\"_blank\"></a><a href=\"http://www.lonelyplanet.fr/forum\" target=\"_blank\">http://www.lonelyplanet.fr/forum</a><div><div><a href=\"http://www.routard.com/comm_forum_de_voyage.asp\" target=\"_blank\">http://www.routard.com/comm_forum_de_voyage.asp</a><br></div><div><a href=\"www.casa-trotter.com\" target=\"_blank\">www.casa-trotter.com</a><br></div><div><a href=\"http://www.e-voyageur.com/\" target=\"_blank\">http://www.e-voyageur.com/</a><br></div><div><br></div></div>"
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 25,
+      "ideaIdTo": 24,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 29,
+      "ideaIdTo": 80,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 11,
+      "ideaIdTo": 27,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
